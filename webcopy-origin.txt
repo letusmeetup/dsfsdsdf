@@ -1,0 +1,572 @@
+Uri: https://cdn.rlets.com/capture_configs/f1b/f41/aab/3e443eb92992a42016ca7a1.js
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\capture_configs\f1b\f41\aab\3e443eb92992a42016ca7a1.js
+Content Type: text/javascript
+
+Uri: https://cdn.userway.org/widget.js
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\widget.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.css?ver=1.0.7
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\ajax\libs\jquery-autocomplete\1.0.7\jquery.auto-complete.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.min.js?ver=1.0.7
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\ajax\libs\jquery-autocomplete\1.0.7\jquery.auto-complete.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400%2C500%2C600%2C700%2C800%2C900|Nunito:400%2C500%2C600%2C700%2C800%2C900&ver=2.26
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://papereshops.online/
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\index.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/about-us/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\about-us\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/accessibility-statement/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\accessibility-statement\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/careers/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\careers\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/contact-us/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\contact-us\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/index30e3.html?p=283
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\index30e3.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/index3cee.html?p=323
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\index3cee.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/index4bd3.html?p=326
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\index4bd3.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/index5355.html?p=327
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\index5355.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/index61f2.html?p=693
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\index61f2.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/index63fb.html?p=319
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\index63fb.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/index7896.html?p=78
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\index7896.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/index8ee7.html?p=321
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\index8ee7.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/indexbde5.html?p=80
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\indexbde5.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/indexca55.html?p=696
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\indexca55.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/indexe513.html?p=320
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\indexe513.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/indexeffc.html?p=322
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\indexeffc.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/indexf175.html?p=325
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\indexf175.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/indexf47a.html?p=324
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\indexf47a.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/pay-my-bill/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\pay-my-bill\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/privacy-policy/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\privacy-policy\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/services/compactors/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\services\compactors\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/services/document-shredding/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\services\document-shredding\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/services/front-load-dumpsters/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\services\front-load-dumpsters\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/services/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\services\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/services/roll-offs/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\services\roll-offs\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/services/storage-containers/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\services\storage-containers\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/services/trash-removal/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\services\trash-removal\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/sitemap/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\sitemap\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/wp-content/plugins/gravity-forms-wcag-20-form-fields/css/gf_wcag20_form_fields.min1e39.css?ver=6.4.2
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\plugins\gravity-forms-wcag-20-form-fields\css\gf_wcag20_form_fields.min1e39.css
+Content Type: text/css
+
+Uri: https://papereshops.online/wp-content/plugins/gravity-forms-wcag-20-form-fields/js/gf_wcag20_form_fields.min1e39.js?ver=6.4.2
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\plugins\gravity-forms-wcag-20-form-fields\js\gf_wcag20_form_fields.min1e39.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min00af.js?ver=bab19fd84843dabc070e73326d787910
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\plugins\gravityforms\assets\js\dist\scripts-theme.min00af.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp-content/plugins/gravityforms/assets/js/dist/utils.minbdb4.js?ver=50c7bea9c2320e16728e44ae9fde5f26
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\plugins\gravityforms\assets\js\dist\utils.minbdb4.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.minca9e.js?ver=54e7080aa7a02c83aa61fae430b9d869
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\plugins\gravityforms\assets\js\dist\vendor-theme.minca9e.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp-content/plugins/gravityforms/js/gravityforms.mindf1a.js?ver=2.8.18
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\plugins\gravityforms\js\gravityforms.mindf1a.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp-content/plugins/gravityforms/js/jquery.json.mindf1a.js?ver=2.8.18
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\plugins\gravityforms\js\jquery.json.mindf1a.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp-content/plugins/gravityforms/js/jquery.maskedinput.mindf1a.js?ver=2.8.18
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\plugins\gravityforms\js\jquery.maskedinput.mindf1a.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp-content/plugins/gravityforms/js/placeholders.jquery.mindf1a.js?ver=2.8.18
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\plugins\gravityforms\js\placeholders.jquery.mindf1a.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp-content/themes/reach.parent/build/css/theme.min650b.css?ver=2.26
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\themes\reach.parent\build\css\theme.min650b.css
+Content Type: text/css
+
+Uri: https://papereshops.online/wp-content/themes/reach.parent/build/images/datepicker/arrow.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\themes\reach.parent\build\images\datepicker\arrow.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/wp-content/themes/reach.parent/build/js/theme.min650b.js?ver=2.26
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\themes\reach.parent\build\js\theme.min650b.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp-content/themes/reach.parent/build/js/vendor.min650b.js?ver=2.26
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\themes\reach.parent\build\js\vendor.min650b.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp-content/themes/reach.service-online-slow/build/css/theme.min650b.css?ver=2.26
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\themes\reach.service-online-slow\build\css\theme.min650b.css
+Content Type: text/css
+
+Uri: https://papereshops.online/wp-content/uploads/2019/02/CTA_Interiorpage_web.jpg
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2019\02\CTA_Interiorpage_web.jpg
+Content Type: image/jpeg
+
+Uri: https://papereshops.online/wp-content/uploads/2021/10/cropped-Favicon-180x180.png
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2021\10\cropped-Favicon-180x180.png
+Content Type: image/png
+
+Uri: https://papereshops.online/wp-content/uploads/2021/10/cropped-Favicon-192x192.png
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2021\10\cropped-Favicon-192x192.png
+Content Type: image/png
+
+Uri: https://papereshops.online/wp-content/uploads/2021/10/cropped-Favicon-32x32.png
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2021\10\cropped-Favicon-32x32.png
+Content Type: image/png
+
+Uri: https://papereshops.online/wp-content/uploads/2021/10/Hero_homepageimage_web.jpg
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2021\10\Hero_homepageimage_web.jpg
+Content Type: image/jpeg
+
+Uri: https://papereshops.online/wp-content/uploads/2021/10/Hero_Interiorpage.jpg
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2021\10\Hero_Interiorpage.jpg
+Content Type: image/jpeg
+
+Uri: https://papereshops.online/wp-content/uploads/2022/04/DSC_0920.jpg
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2022\04\DSC_0920.jpg
+Content Type: image/jpeg
+
+Uri: https://papereshops.online/wp-content/uploads/2022/04/recycling-instructions.pdf
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2022\04\recycling-instructions.pdf
+Content Type: application/pdf
+
+Uri: https://papereshops.online/wp-content/uploads/2022/05/Logo-01.jpg
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2022\05\Logo-01.jpg
+Content Type: image/jpeg
+
+Uri: https://papereshops.online/wp-content/uploads/2023/02/localiq-powered-light.png
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2023\02\localiq-powered-light.png
+Content Type: image/png
+
+Uri: https://papereshops.online/wp-json/index.html
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\index.html.htm
+Content Type: text/html
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed0201.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Fstorage-containers%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed0201.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed1314.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Froll-offs%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed1314.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed1488?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Ftrash-removal%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed1488
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed1c91?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Froll-offs%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed1c91
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed1d9b.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fcareers%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed1d9b.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed315e.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fprivacy-policy%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed315e.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed3e2f?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Fdocument-shredding%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed3e2f
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed529c?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Fcompactors%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed529c
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed54e5.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fcontact-us%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed54e5.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed5d57?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Ffront-load-dumpsters%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed5d57
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed6351.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed6351.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed66b4.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Ftrash-removal%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed66b4.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed6e2f?url=https:%2F%2Fwww.orlandowastepaper.com%2Faccessibility-statement%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed6e2f
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed8556.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fabout-us%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed8556.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed8b3f?url=https:%2F%2Fwww.orlandowastepaper.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed8b3f
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed8cb3?url=https:%2F%2Fwww.orlandowastepaper.com%2Fabout-us%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed8cb3
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embed9a08.json?url=https:%2F%2Fwww.papereshops.online%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embed9a08.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embedabab.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Ffront-load-dumpsters%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embedabab.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embedaf42.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Faccessibility-statement%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embedaf42.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embedc56a.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Fdocument-shredding%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embedc56a.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embedc6df?url=https:%2F%2Fwww.orlandowastepaper.com%2Fcontact-us%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embedc6df
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embedc6fa?url=https:%2F%2Fwww.orlandowastepaper.com%2Fsitemap%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embedc6fa
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embedce95?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embedce95
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embedd853.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fpay-my-bill%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embedd853.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embeddadb?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Fstorage-containers%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embeddadb
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embede364?url=https:%2F%2Fwww.papereshops.online%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embede364
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embede549.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fsitemap%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embede549.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embede73f?url=https:%2F%2Fwww.orlandowastepaper.com%2Fcareers%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embede73f
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embedee5e?url=https:%2F%2Fwww.orlandowastepaper.com%2Fpay-my-bill%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embedee5e
+Content Type: 
+
+Uri: https://papereshops.online/wp-json/oembed/1.0/embedfc87.json?url=https:%2F%2Fwww.orlandowastepaper.com%2Fservices%2Fcompactors%2F
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\oembed\1.0\embedfc87.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/283.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\283.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/319.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\319.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/320.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\320.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/321.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\321.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/322.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\322.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/323.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\323.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/324.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\324.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/325.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\325.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/326.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\326.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/327.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\327.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/5.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\5.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/693.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\693.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/696.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\696.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/78.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\78.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp-json/wp/v2/pages/80.json
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\wp\v2\pages\80.json
+Content Type: application/json
+
+Uri: https://papereshops.online/wp/wp-includes/css/dist/block-library/style.min1e39.css?ver=6.4.2
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\css\dist\block-library\style.min1e39.css
+Content Type: text/css
+
+Uri: https://papereshops.online/wp/wp-includes/js/dist/a11y.min866e.js?ver=7032343a947cfccf5608
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\dist\a11y.min866e.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp/wp-includes/js/dist/dom-ready.minded6.js?ver=392bdd43726760d1f3ca
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\dist\dom-ready.minded6.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp/wp-includes/js/dist/hooks.min2ebd.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\dist\hooks.min2ebd.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp/wp-includes/js/dist/i18n.minf92f.js?ver=7701b0c3857f914212ef
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\dist\i18n.minf92f.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp/wp-includes/js/dist/vendor/regenerator-runtime.min6c85.js?ver=0.14.0
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\dist\vendor\regenerator-runtime.min6c85.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp/wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\dist\vendor\wp-polyfill-inert.min0226.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp/wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\dist\vendor\wp-polyfill.min2c7c.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp/wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\jquery\jquery-migrate.min5589.js
+Content Type: text/javascript
+
+Uri: https://papereshops.online/wp/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\jquery\jquery.minf43b.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-YK56DBDPY7
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-225260902-50
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.orlandowastepaper.com/wp-content/themes/reach.parent/build/css/theme.min.css?ver=2.26
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\themes\reach.parent\build\css\theme.min.css
+Content Type: text/css
+
+Uri: https://www.orlandowastepaper.com/wp-content/themes/reach.parent/build/js/theme.min.js?ver=2.26
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\themes\reach.parent\build\js\theme.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.orlandowastepaper.com/wp-content/themes/reach.parent/build/js/vendor.min.js?ver=2.26
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\themes\reach.parent\build\js\vendor.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.orlandowastepaper.com/wp-content/themes/reach.service-online-slow/build/css/theme.min.css?ver=2.26
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\themes\reach.service-online-slow\build\css\theme.min.css
+Content Type: text/css
+
+Uri: https://www.orlandowastepaper.com/wp-content/uploads/2021/10/cropped-Favicon-180x180.png
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2021\10\cropped-Favicon-180x180-1.png
+Content Type: image/png
+
+Uri: https://www.orlandowastepaper.com/wp-content/uploads/2021/10/cropped-Favicon-192x192.png
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2021\10\cropped-Favicon-192x192-1.png
+Content Type: image/png
+
+Uri: https://www.orlandowastepaper.com/wp-content/uploads/2021/10/cropped-Favicon-32x32.png
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2021\10\cropped-Favicon-32x32-1.png
+Content Type: image/png
+
+Uri: https://www.orlandowastepaper.com/wp-content/uploads/2021/10/Hero_Interiorpage.jpg
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2021\10\Hero_Interiorpage-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.orlandowastepaper.com/wp-content/uploads/2022/05/Logo-01.svg
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2022\05\Logo-01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.orlandowastepaper.com/wp-content/uploads/2023/02/localiq-powered-light.png
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-content\uploads\2023\02\localiq-powered-light-1.png
+Content Type: image/png
+
+Uri: https://www.orlandowastepaper.com/wp-json/
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.orlandowastepaper.com/wp/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.orlandowastepaper.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.orlandowastepaper.com/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\Locked Door\Desktop\Campaings\papershops\papereshops.online\wp\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
